@@ -1,5 +1,5 @@
 {
-  "name": "xslt3",
+  "name": "@ditaxpresso/xslt3",
   "version": "2.5.0",
   "description": "SaxonJS XSLT 3.0 processor: command line interface to SaxonJS",
   "main": "xslt3.js",
